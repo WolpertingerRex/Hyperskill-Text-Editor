@@ -1,0 +1,4 @@
+The first thing to point out is that the "Save" and "Load" buttons take up a lot of space on the screen. 
+You can't add a lot of buttons to the top bar when they contain text. This problem can be solved using icons instead of text. 
+The constructor of JButton can take an ImageIcon instead of text. You should replace the buttons "Load" and "Save"
+ with corresponding icons. You can download the icons from the internet.
